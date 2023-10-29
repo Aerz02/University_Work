@@ -1,4 +1,12 @@
-#Problem Solving for Computer Science
+# Problem Solving for Computer Science
 Topics Covered:
-- stacks & queues
-- binary search
+- Algorithms
+- Flowcharts
+- Functions
+- Abstract Data Structures
+- Searching
+- Sorting
+- Analysing Algorithms
+- Binary Search
+- Recursion
+- Divide and Conquer 
