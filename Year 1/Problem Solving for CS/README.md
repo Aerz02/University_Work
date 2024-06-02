@@ -1,4 +1,7 @@
 # Problem Solving for Computer Science
+## Assignments:
+- Primes
+- Sudoku
 Topics Covered:
 - Algorithms
 - Flowcharts
