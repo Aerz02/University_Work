@@ -2,7 +2,7 @@
 ## Assignments:
 - Primes
 - Sudoku
-Topics Covered:
+## Topics Covered:
 - Algorithms
 - Flowcharts
 - Functions
