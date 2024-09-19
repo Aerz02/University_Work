@@ -1,4 +1,8 @@
 Java For Industry
+Assignments:
+- Lab Assignment 1
+- Lab Assignment 2
+- 
 Topics Include:
 - Variables and Types
 - Control Flow
